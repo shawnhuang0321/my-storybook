@@ -1,4 +1,4 @@
-# ts-demo
+# my-storybook
 
 ## Project setup
 ```
